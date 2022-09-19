@@ -1,0 +1,3327 @@
+{
+  "code": "OK", 
+  "data": {
+    "items": [
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "35.5", 
+        "buy_num": 346, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fe7517dbcc4706bc1817Paj6mOdH03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fe7188951a10906dbf25mHDeY2BP03", 
+          "steam_price": "7.59", 
+          "steam_price_cny": "53.01"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876070, 
+        "market_hash_name": "Sticker | MOUZ (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | MOUZ (Holo) | Stockholm 2021", 
+        "quick_price": "36.1", 
+        "sell_min_price": "36.2", 
+        "sell_num": 386, 
+        "sell_reference_price": "36.2", 
+        "short_name": "Sticker | MOUZ (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20MOUZ%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "15.1", 
+        "buy_num": 47, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b2069b866f806d961a324TUcbDZ2p03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2065020f223c2899e5bfOUe3eZWa03", 
+          "steam_price": "2.71", 
+          "steam_price_cny": "18.93"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878853, 
+        "market_hash_name": "Sticker | NiKo (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | NiKo (Holo) | Stockholm 2021", 
+        "quick_price": "16.4", 
+        "sell_min_price": "16.5", 
+        "sell_num": 522, 
+        "sell_reference_price": "16.5", 
+        "short_name": "Sticker | NiKo (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20NiKo%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "12.9", 
+        "buy_num": 506, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fc0313c49b5700610710vU6skpc303", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fbffdbb9832daee626dau6MVBfoS03", 
+          "steam_price": "2.65", 
+          "steam_price_cny": "18.51"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876034, 
+        "market_hash_name": "Sticker | Copenhagen Flames (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Copenhagen Flames (Holo) | Stockholm 2021", 
+        "quick_price": "13.05", 
+        "sell_min_price": "13.15", 
+        "sell_num": 424, 
+        "sell_reference_price": "13.15", 
+        "short_name": "Sticker | Copenhagen Flames (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Copenhagen%20Flames%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "11.1", 
+        "buy_num": 145, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fdf27c3c4d96e021a130MC7G8ZKC03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fdee12779a4df309123bsvLOj3At03", 
+          "steam_price": "2.03", 
+          "steam_price_cny": "14.18"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876065, 
+        "market_hash_name": "Sticker | Movistar Riders (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Movistar Riders (Holo) | Stockholm 2021", 
+        "quick_price": "11.05", 
+        "sell_min_price": "11.15", 
+        "sell_num": 282, 
+        "sell_reference_price": "11.15", 
+        "short_name": "Sticker | Movistar Riders (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Movistar%20Riders%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "10.8", 
+        "buy_num": 239, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6172011362b734781c1c3a42m6AvylJS03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/61720110affd2aa8fc6bef0bXiY3oGPj03", 
+          "steam_price": "2.2", 
+          "steam_price_cny": "15.36"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876123, 
+        "market_hash_name": "Sticker | paiN Gaming (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | paiN Gaming (Holo) | Stockholm 2021", 
+        "quick_price": "11.85", 
+        "sell_min_price": "11.95", 
+        "sell_num": 169, 
+        "sell_reference_price": "11.95", 
+        "short_name": "Sticker | paiN Gaming (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20paiN%20Gaming%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "10.5", 
+        "buy_num": 30, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa324ae86367f981e256kVJJrByR03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa30b866f89555243933uhUhWeR203", 
+          "steam_price": "2.3", 
+          "steam_price_cny": "16.06"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875980, 
+        "market_hash_name": "Sticker | Virtus.Pro (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Virtus.Pro (Holo) | Stockholm 2021", 
+        "quick_price": "11.69", 
+        "sell_min_price": "11.79", 
+        "sell_num": 641, 
+        "sell_reference_price": "11.79", 
+        "short_name": "Sticker | Virtus.Pro (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Virtus.Pro%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": true, 
+        "buy_max_price": "9.4", 
+        "buy_num": 340, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f9972e5a0e13db5e562fOSi1C1mJ03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f995c68de23539362e7dB9WzwQLi03", 
+          "steam_price": "1.97", 
+          "steam_price_cny": "13.76"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875969, 
+        "market_hash_name": "Sticker | FURIA (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | FURIA (Holo) | Stockholm 2021", 
+        "quick_price": "9.8", 
+        "sell_min_price": "9.81", 
+        "sell_num": 1739, 
+        "sell_reference_price": "9.81", 
+        "short_name": "Sticker | FURIA (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20FURIA%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "8.7", 
+        "buy_num": 101, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa34aefc318f18ff28fbvMlUt2vp03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa3287d5df2d01a13800LRShuLLU03", 
+          "steam_price": "1.78", 
+          "steam_price_cny": "12.43"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875981, 
+        "market_hash_name": "Sticker | Entropiq (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Entropiq (Holo) | Stockholm 2021", 
+        "quick_price": "8.82", 
+        "sell_min_price": "8.83", 
+        "sell_num": 537, 
+        "sell_reference_price": "8.83", 
+        "short_name": "Sticker | Entropiq (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Entropiq%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "7.7", 
+        "buy_num": 328, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fcb387d5df2d01a13a2eMvVO4JWb03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fcb1b59880a7350a84ddCFzPDsbi03", 
+          "steam_price": "1.38", 
+          "steam_price_cny": "9.64"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876043, 
+        "market_hash_name": "Sticker | Tyloo (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Tyloo (Holo) | Stockholm 2021", 
+        "quick_price": "7.79", 
+        "sell_min_price": "7.8", 
+        "sell_num": 912, 
+        "sell_reference_price": "7.8", 
+        "short_name": "Sticker | Tyloo (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Tyloo%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "7.4", 
+        "buy_num": 251, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23fe65c763bdba510a32FvSOLCei03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23f5885f1d5bce3cbc1ekaR0920T03", 
+          "steam_price": "1.35", 
+          "steam_price_cny": "9.43"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878974, 
+        "market_hash_name": "Sticker | device (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | device (Holo) | Stockholm 2021", 
+        "quick_price": "7.55", 
+        "sell_min_price": "7.56", 
+        "sell_num": 871, 
+        "sell_reference_price": "7.56", 
+        "short_name": "Sticker | device (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20device%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "7.3", 
+        "buy_num": 80, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fc3ebab31bbed79f30d3OgR7pufe03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fc3a65c763108cdfad75OO9e4hTE03", 
+          "steam_price": "1.47", 
+          "steam_price_cny": "10.27"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876038, 
+        "market_hash_name": "Sticker | BIG (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | BIG (Holo) | Stockholm 2021", 
+        "quick_price": "7.42", 
+        "sell_min_price": "7.43", 
+        "sell_num": 163, 
+        "sell_reference_price": "7.43", 
+        "short_name": "Sticker | BIG (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20BIG%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "6.8", 
+        "buy_num": 142, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fe8063d79322ae95a8bf3O9T1tui03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fe7cdc0314955b98a85ckEPvJOse03", 
+          "steam_price": "1.43", 
+          "steam_price_cny": "9.99"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876072, 
+        "market_hash_name": "Sticker | FaZe Clan (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | FaZe Clan (Holo) | Stockholm 2021", 
+        "quick_price": "7.37", 
+        "sell_min_price": "7.38", 
+        "sell_num": 728, 
+        "sell_reference_price": "7.38", 
+        "short_name": "Sticker | FaZe Clan (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20FaZe%20Clan%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "6.8", 
+        "buy_num": 279, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa133f368d066043b388WL6fKvsD03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa110e25d2581d5b7b15FLy9cuiL03", 
+          "steam_price": "1.38", 
+          "steam_price_cny": "9.64"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875977, 
+        "market_hash_name": "Sticker | Natus Vincere (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Natus Vincere (Holo) | Stockholm 2021", 
+        "quick_price": "6.99", 
+        "sell_min_price": "7", 
+        "sell_num": 2725, 
+        "sell_reference_price": "7", 
+        "short_name": "Sticker | Natus Vincere (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Natus%20Vincere%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "6.6", 
+        "buy_num": 246, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa447c3c4dbfd7d42952jQ7iDSSP03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa427774ee5694f5281akgjSadX203", 
+          "steam_price": "1.3", 
+          "steam_price_cny": "9.08"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875983, 
+        "market_hash_name": "Sticker | G2 Esports (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | G2 Esports (Holo) | Stockholm 2021", 
+        "quick_price": "6.86", 
+        "sell_min_price": "6.87", 
+        "sell_num": 1280, 
+        "sell_reference_price": "6.87", 
+        "short_name": "Sticker | G2 Esports (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20G2%20Esports%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "6.3", 
+        "buy_num": 129, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fafd79d2f72f7d7ace957NfFUyJ203", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fafa2d3b3b6d23bdd3dee7vueegB03", 
+          "steam_price": "1.18", 
+          "steam_price_cny": "8.24"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876016, 
+        "market_hash_name": "Sticker | Astralis (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Astralis (Holo) | Stockholm 2021", 
+        "quick_price": "6.84", 
+        "sell_min_price": "6.85", 
+        "sell_num": 219, 
+        "sell_reference_price": "6.85", 
+        "short_name": "Sticker | Astralis (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Astralis%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "5.2", 
+        "buy_num": 164, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fbdcbab31bbed79f308784o3h1Hk03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fbda37698667f442752fsCVAf9X603", 
+          "steam_price": "1.3", 
+          "steam_price_cny": "9.08"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876027, 
+        "market_hash_name": "Sticker | Team Spirit (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Team Spirit (Holo) | Stockholm 2021", 
+        "quick_price": "6.42", 
+        "sell_min_price": "6.43", 
+        "sell_num": 278, 
+        "sell_reference_price": "6.43", 
+        "short_name": "Sticker | Team Spirit (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Team%20Spirit%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "5", 
+        "buy_num": 66, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23c1fbfe1b35d389e8daYV4bY1bj03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23b5bab31b453191863eNBWm0KTs03", 
+          "steam_price": "1.06", 
+          "steam_price_cny": "7.4"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878967, 
+        "market_hash_name": "Sticker | ZywOo (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | ZywOo (Holo) | Stockholm 2021", 
+        "quick_price": "5.92", 
+        "sell_min_price": "5.93", 
+        "sell_num": 287, 
+        "sell_reference_price": "5.93", 
+        "short_name": "Sticker | ZywOo (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20ZywOo%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "4.7", 
+        "buy_num": 245, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa437384e80b4a0874d7Y6VkUXe803", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa402e5a0e9a507d1bb5oixUzGUZ03", 
+          "steam_price": "0.98", 
+          "steam_price_cny": "6.84"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875982, 
+        "market_hash_name": "Sticker | Team Liquid (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Team Liquid (Holo) | Stockholm 2021", 
+        "quick_price": "4.8", 
+        "sell_min_price": "4.81", 
+        "sell_num": 812, 
+        "sell_reference_price": "4.81", 
+        "short_name": "Sticker | Team Liquid (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Team%20Liquid%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "4.3", 
+        "buy_num": 148, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b214b12779a49443d0b5fjQjkxe2x03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b214983c18c738233083fZpHtIvlb03", 
+          "steam_price": "0.89", 
+          "steam_price_cny": "6.22"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878899, 
+        "market_hash_name": "Sticker | arT (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | arT (Holo) | Stockholm 2021", 
+        "quick_price": "4.98", 
+        "sell_min_price": "4.99", 
+        "sell_num": 358, 
+        "sell_reference_price": "4.99", 
+        "short_name": "Sticker | arT (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20arT%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "4", 
+        "buy_num": 296, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b1de204dd1d7cd4f60b0bUlIEe6vR03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b1de1daecfa831a1a41c5p297NeZ703", 
+          "steam_price": "0.77", 
+          "steam_price_cny": "5.38"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878841, 
+        "market_hash_name": "Sticker | s1mple (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | s1mple (Holo) | Stockholm 2021", 
+        "quick_price": "4.08", 
+        "sell_min_price": "4.09", 
+        "sell_num": 3950, 
+        "sell_reference_price": "4.09", 
+        "short_name": "Sticker | s1mple (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20s1mple%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3.7", 
+        "buy_num": 550, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fb816912b7bc12194c28JfLXe3p503", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fb7edfe8988de832a06cexzSrb7603", 
+          "steam_price": "0.75", 
+          "steam_price_cny": "5.24"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876018, 
+        "market_hash_name": "Sticker | Vitality (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Vitality (Holo) | Stockholm 2021", 
+        "quick_price": "3.78", 
+        "sell_min_price": "3.79", 
+        "sell_num": 1207, 
+        "sell_reference_price": "3.79", 
+        "short_name": "Sticker | Vitality (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Vitality%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3.7", 
+        "buy_num": 715, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f995fda5b156b4387accBZzPPfbM03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f9938464428c25540150IQHso7yg03", 
+          "steam_price": "0.66", 
+          "steam_price_cny": "4.61"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875966, 
+        "market_hash_name": "Sticker | Gambit Gaming (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Gambit Gaming (Holo) | Stockholm 2021", 
+        "quick_price": "3.87", 
+        "sell_min_price": "3.88", 
+        "sell_num": 2754, 
+        "sell_reference_price": "3.88", 
+        "short_name": "Sticker | Gambit Gaming (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Gambit%20Gaming%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3.6", 
+        "buy_num": 163, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23c41a0f9a203bf4aecblPFyrBN203", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23c1020f223c063aa3c0zcgDp7sb03", 
+          "steam_price": "0.75", 
+          "steam_price_cny": "5.24"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878968, 
+        "market_hash_name": "Sticker | Jame (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Jame (Holo) | Stockholm 2021", 
+        "quick_price": "3.79", 
+        "sell_min_price": "3.8", 
+        "sell_num": 491, 
+        "sell_reference_price": "3.8", 
+        "short_name": "Sticker | Jame (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Jame%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3", 
+        "buy_num": 249, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fc71356b7a34dfbdcf0eKHPi2ZBf03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fc6ff1baba38d0c619b4XCvB1zRz03", 
+          "steam_price": "0.66", 
+          "steam_price_cny": "4.61"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876042, 
+        "market_hash_name": "Sticker | GODSENT (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | GODSENT (Holo) | Stockholm 2021", 
+        "quick_price": "3.84", 
+        "sell_min_price": "3.85", 
+        "sell_num": 158, 
+        "sell_reference_price": "3.85", 
+        "short_name": "Sticker | GODSENT (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20GODSENT%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.3", 
+        "buy_num": 218, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fded12779a5554d7df62uW8PTmeV03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fdeb7fcfb769250809bdbfTmzMEx03", 
+          "steam_price": "0.46", 
+          "steam_price_cny": "3.21"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876063, 
+        "market_hash_name": "Sticker | Heroic (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Heroic (Holo) | Stockholm 2021", 
+        "quick_price": "2.43", 
+        "sell_min_price": "2.44", 
+        "sell_num": 278, 
+        "sell_reference_price": "2.44", 
+        "short_name": "Sticker | Heroic (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Heroic%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.2", 
+        "buy_num": 104, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b216ffbfe1b193da461dasgtR4EJc03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b21652d683e61e77e723a68AXW9mU03", 
+          "steam_price": "0.47", 
+          "steam_price_cny": "3.28"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878911, 
+        "market_hash_name": "Sticker | JACKZ (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | JACKZ (Holo) | Stockholm 2021", 
+        "quick_price": "2.79", 
+        "sell_min_price": "2.8", 
+        "sell_num": 434, 
+        "sell_reference_price": "2.8", 
+        "short_name": "Sticker | JACKZ (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20JACKZ%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.2", 
+        "buy_num": 274, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f92e99e8d6a17a9fbb18Fh2hiB6p03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f92d1a0f9a200536fcb7pS65bxIX03", 
+          "steam_price": "0.43", 
+          "steam_price_cny": "3"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875863, 
+        "market_hash_name": "Sticker | Evil Geniuses (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Evil Geniuses (Holo) | Stockholm 2021", 
+        "quick_price": "2.34", 
+        "sell_min_price": "2.35", 
+        "sell_num": 647, 
+        "sell_reference_price": "2.35", 
+        "short_name": "Sticker | Evil Geniuses (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Evil%20Geniuses%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.1", 
+        "buy_num": 214, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fc6c8a8ae966b9ff033ayWRUb86Y03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fc6bb72bb1067014b3c6iY2lZQXg03", 
+          "steam_price": "0.47", 
+          "steam_price_cny": "3.28"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876040, 
+        "market_hash_name": "Sticker | ENCE (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | ENCE (Holo) | Stockholm 2021", 
+        "quick_price": "2.46", 
+        "sell_min_price": "2.47", 
+        "sell_num": 299, 
+        "sell_reference_price": "2.47", 
+        "short_name": "Sticker | ENCE (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20ENCE%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.1", 
+        "buy_num": 425, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b208ec50b2061b2ebb19c6LrprgGy03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b208adaecfa831a1a42dc62Uw19Or03", 
+          "steam_price": "0.38", 
+          "steam_price_cny": "2.65"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878877, 
+        "market_hash_name": "Sticker | YEKINDAR (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | YEKINDAR (Holo) | Stockholm 2021", 
+        "quick_price": "2.6", 
+        "sell_min_price": "2.61", 
+        "sell_num": 402, 
+        "sell_reference_price": "2.61", 
+        "short_name": "Sticker | YEKINDAR (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20YEKINDAR%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2", 
+        "buy_num": 337, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fbda607fd1118212bd71fhW7LdMb03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fbd9356b7a50baf08979hab3mRHD03", 
+          "steam_price": "0.4", 
+          "steam_price_cny": "2.79"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876026, 
+        "market_hash_name": "Sticker | Sharks Esports (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Sharks Esports (Holo) | Stockholm 2021", 
+        "quick_price": "2.23", 
+        "sell_min_price": "2.24", 
+        "sell_num": 404, 
+        "sell_reference_price": "2.24", 
+        "short_name": "Sticker | Sharks Esports (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Sharks%20Esports%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2", 
+        "buy_num": 222, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b224e79d2f7ab24957514BbwCDbA303", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b224b9a51458c9da0e193x69Z9uKk03", 
+          "steam_price": "0.43", 
+          "steam_price_cny": "3"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878931, 
+        "market_hash_name": "Sticker | huNter- (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | huNter- (Holo) | Stockholm 2021", 
+        "quick_price": "2.68", 
+        "sell_min_price": "2.69", 
+        "sell_num": 364, 
+        "sell_reference_price": "2.69", 
+        "short_name": "Sticker | huNter- (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20huNter-%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.9", 
+        "buy_num": 166, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b223daffd2a2313e0a3c6uVodJq0x03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2238dc03140d887c1712caWzafuY03", 
+          "steam_price": "0.28", 
+          "steam_price_cny": "1.96"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878928, 
+        "market_hash_name": "Sticker | VINI (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | VINI (Holo) | Stockholm 2021", 
+        "quick_price": "1.89", 
+        "sell_min_price": "1.89", 
+        "sell_num": 92, 
+        "sell_reference_price": "1.9", 
+        "short_name": "Sticker | VINI (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20VINI%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.7", 
+        "buy_num": 184, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b20703f368d4706998267jWP5Pp8Q03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b206588951a428131ffb3L64lUUBu03", 
+          "steam_price": "0.31", 
+          "steam_price_cny": "2.17"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878862, 
+        "market_hash_name": "Sticker | REZ (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | REZ (Holo) | Stockholm 2021", 
+        "quick_price": "2.09", 
+        "sell_min_price": "2.1", 
+        "sell_num": 163, 
+        "sell_reference_price": "2.1", 
+        "short_name": "Sticker | REZ (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20REZ%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.6", 
+        "buy_num": 31, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa759d3dd58937bd9c7cRiyHdfvK03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa710e25d29fa792f84cUXHmuC0m03", 
+          "steam_price": "0.3", 
+          "steam_price_cny": "2.1"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875987, 
+        "market_hash_name": "Sticker | Renegades (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Renegades (Holo) | Stockholm 2021", 
+        "quick_price": "1.72", 
+        "sell_min_price": "1.73", 
+        "sell_num": 541, 
+        "sell_reference_price": "1.73", 
+        "short_name": "Sticker | Renegades (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Renegades%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.4", 
+        "buy_num": 306, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b2268c50b2023421c728emE6xiPjI03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2261c68de2547916d7511d1YbErD03", 
+          "steam_price": "0.3", 
+          "steam_price_cny": "2.1"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878933, 
+        "market_hash_name": "Sticker | AMANEK (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | AMANEK (Holo) | Stockholm 2021", 
+        "quick_price": "1.52", 
+        "sell_min_price": "1.53", 
+        "sell_num": 125, 
+        "sell_reference_price": "1.53", 
+        "short_name": "Sticker | AMANEK (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20AMANEK%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.4", 
+        "buy_num": 171, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23da885f1d5bb97ea14eM42aUz5303", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23d2b72bb18ca943e987dguYJwmF03", 
+          "steam_price": "0.3", 
+          "steam_price_cny": "2.1"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878971, 
+        "market_hash_name": "Sticker | nexa (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | nexa (Holo) | Stockholm 2021", 
+        "quick_price": "1.59", 
+        "sell_min_price": "1.6", 
+        "sell_num": 134, 
+        "sell_reference_price": "1.6", 
+        "short_name": "Sticker | nexa (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20nexa%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.4", 
+        "buy_num": 536, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa6e213594bc8c66e945XWZuUZx003", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa6d846442769042144cW00gJJjC03", 
+          "steam_price": "0.24", 
+          "steam_price_cny": "1.68"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875986, 
+        "market_hash_name": "Sticker | PGL (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | PGL (Holo) | Stockholm 2021", 
+        "quick_price": "1.44", 
+        "sell_min_price": "1.45", 
+        "sell_num": 420, 
+        "sell_reference_price": "1.45", 
+        "short_name": "Sticker | PGL (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20PGL%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.3", 
+        "buy_num": 417, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fb8113c49b1b08d5bc9cyERpqLZT03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fb80aa32b07abdc0033fuUoV1M3V03", 
+          "steam_price": "0.26", 
+          "steam_price_cny": "1.82"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876019, 
+        "market_hash_name": "Sticker | Ninjas in Pyjamas (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Ninjas in Pyjamas (Holo) | Stockholm 2021", 
+        "quick_price": "1.31", 
+        "sell_min_price": "1.32", 
+        "sell_num": 1149, 
+        "sell_reference_price": "1.32", 
+        "short_name": "Sticker | Ninjas in Pyjamas (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Ninjas%20in%20Pyjamas%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.2", 
+        "buy_num": 39, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b223faa32b07d70d1ad22msrcACm203", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2238dbb98314cb56e359QvNUCtMi03", 
+          "steam_price": "0.23", 
+          "steam_price_cny": "1.61"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878929, 
+        "market_hash_name": "Sticker | apEX (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | apEX (Holo) | Stockholm 2021", 
+        "quick_price": "1.38", 
+        "sell_min_price": "1.39", 
+        "sell_num": 171, 
+        "sell_reference_price": "1.39", 
+        "short_name": "Sticker | apEX (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20apEX%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.2", 
+        "buy_num": 152, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b21672d3b3b0751ab308cEGR8OvxI03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b216288951a46fe93487erjgfcHRI03", 
+          "steam_price": "0.23", 
+          "steam_price_cny": "1.61"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878907, 
+        "market_hash_name": "Sticker | shox (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | shox (Holo) | Stockholm 2021", 
+        "quick_price": "1.42", 
+        "sell_min_price": "1.43", 
+        "sell_num": 287, 
+        "sell_reference_price": "1.43", 
+        "short_name": "Sticker | shox (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20shox%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.1", 
+        "buy_num": 233, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23b48614f58f426c30d3Djez69gL03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23b13e68f4774523caa3iMfSPMWH03", 
+          "steam_price": "0.27", 
+          "steam_price_cny": "1.89"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878966, 
+        "market_hash_name": "Sticker | Ax1Le (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Ax1Le (Holo) | Stockholm 2021", 
+        "quick_price": "1.13", 
+        "sell_min_price": "1.14", 
+        "sell_num": 548, 
+        "sell_reference_price": "1.14", 
+        "short_name": "Sticker | Ax1Le (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Ax1Le%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.1", 
+        "buy_num": 69, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b228d9a51458c9da0e20asdzqFW1003", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b22863f368d132c1d6de1WhsEgvRi03", 
+          "steam_price": "0.24", 
+          "steam_price_cny": "1.68"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878954, 
+        "market_hash_name": "Sticker | yuurih (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | yuurih (Holo) | Stockholm 2021", 
+        "quick_price": "1.53", 
+        "sell_min_price": "1.54", 
+        "sell_num": 192, 
+        "sell_reference_price": "1.54", 
+        "short_name": "Sticker | yuurih (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20yuurih%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.1", 
+        "buy_num": 148, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b219e88951a9a3c898fbcc9RFhuTc03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b219a12779a49443d0ba8o9g3p7tc03", 
+          "steam_price": "0.3", 
+          "steam_price_cny": "2.1"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878922, 
+        "market_hash_name": "Sticker | hampus (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | hampus (Holo) | Stockholm 2021", 
+        "quick_price": "1.98", 
+        "sell_min_price": "1.99", 
+        "sell_num": 86, 
+        "sell_reference_price": "1.99", 
+        "short_name": "Sticker | hampus (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20hampus%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.1", 
+        "buy_num": 115, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b2006b866f89521fdeaa24VcGzc2203", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b20016f5a448d88f37bb8D9jwZz0A03", 
+          "steam_price": "0.28", 
+          "steam_price_cny": "1.96"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878849, 
+        "market_hash_name": "Sticker | LNZ (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | LNZ (Holo) | Stockholm 2021", 
+        "quick_price": "1.95", 
+        "sell_min_price": "2", 
+        "sell_num": 56, 
+        "sell_reference_price": "1.96", 
+        "short_name": "Sticker | LNZ (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20LNZ%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.02", 
+        "buy_num": 113, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b20a1b866f88ee78c9656iPs7vueg03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b20989a51456d4b1f9dc0oWUkvQ1N03", 
+          "steam_price": "0.25", 
+          "steam_price_cny": "1.75"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878879, 
+        "market_hash_name": "Sticker | sh1ro (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | sh1ro (Holo) | Stockholm 2021", 
+        "quick_price": "1.28", 
+        "sell_min_price": "1.29", 
+        "sell_num": 490, 
+        "sell_reference_price": "1.29", 
+        "short_name": "Sticker | sh1ro (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20sh1ro%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.01", 
+        "buy_num": 127, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b24aec52139a1458be32fL54iFIGS03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b24ac62b73431d51d827dGzG6ayfe03", 
+          "steam_price": "0.21", 
+          "steam_price_cny": "1.47"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878977, 
+        "market_hash_name": "Sticker | drop (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | drop (Holo) | Stockholm 2021", 
+        "quick_price": "1.21", 
+        "sell_min_price": "1.22", 
+        "sell_num": 160, 
+        "sell_reference_price": "1.22", 
+        "short_name": "Sticker | drop (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20drop%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.92", 
+        "buy_num": 161, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b21bf2d683e7b95a6ed038qHHpPkB03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b21b8c50b20543966c7f4Yg5Wu4r003", 
+          "steam_price": "0.19", 
+          "steam_price_cny": "1.33"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878924, 
+        "market_hash_name": "Sticker | HObbit (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | HObbit (Holo) | Stockholm 2021", 
+        "quick_price": "1.19", 
+        "sell_min_price": "1.2", 
+        "sell_num": 322, 
+        "sell_reference_price": "1.2", 
+        "short_name": "Sticker | HObbit (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20HObbit%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.9", 
+        "buy_num": 218, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b20663769867877b4fc13LbdNW4OR03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2063ae1da6ab6780fe57AaWSEQvZ03", 
+          "steam_price": "0.25", 
+          "steam_price_cny": "1.75"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878852, 
+        "market_hash_name": "Sticker | KSCERATO (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | KSCERATO (Holo) | Stockholm 2021", 
+        "quick_price": "1.64", 
+        "sell_min_price": "1.65", 
+        "sell_num": 166, 
+        "sell_reference_price": "1.65", 
+        "short_name": "Sticker | KSCERATO (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20KSCERATO%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.9", 
+        "buy_num": 349, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b1de865c76388811fac9bjQejfzKJ03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b1de762b734bac9bc588e3wATVFT803", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.12"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878843, 
+        "market_hash_name": "Sticker | b1t (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | b1t (Holo) | Stockholm 2021", 
+        "quick_price": "0.96", 
+        "sell_min_price": "0.97", 
+        "sell_num": 2264, 
+        "sell_reference_price": "0.97", 
+        "short_name": "Sticker | b1t (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20b1t%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.8", 
+        "buy_num": 34, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b24044ae863437623b4d6w6o245oC03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b24012d683e40269324c6jZ2I5ivp03", 
+          "steam_price": "0.17", 
+          "steam_price_cny": "1.19"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878975, 
+        "market_hash_name": "Sticker | Kyojin (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Kyojin (Holo) | Stockholm 2021", 
+        "quick_price": "1.03", 
+        "sell_min_price": "1.04", 
+        "sell_num": 100, 
+        "sell_reference_price": "1.04", 
+        "short_name": "Sticker | Kyojin (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Kyojin%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.75", 
+        "buy_num": 228, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23d412779a1f1473d4d0u2Vtfa5F03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23cf376986adbafc70cclwmaM9wX03", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.12"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878969, 
+        "market_hash_name": "Sticker | buster (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | buster (Holo) | Stockholm 2021", 
+        "quick_price": "0.85", 
+        "sell_min_price": "0.86", 
+        "sell_num": 149, 
+        "sell_reference_price": "0.86", 
+        "short_name": "Sticker | buster (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20buster%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.71", 
+        "buy_num": 143, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b21866f5a4456a567f7decFrsUT3p03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2182704e1c296798f3d77Mi7D7zo03", 
+          "steam_price": "0.17", 
+          "steam_price_cny": "1.19"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878913, 
+        "market_hash_name": "Sticker | misutaaa (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | misutaaa (Holo) | Stockholm 2021", 
+        "quick_price": "0.8", 
+        "sell_min_price": "0.81", 
+        "sell_num": 96, 
+        "sell_reference_price": "0.81", 
+        "short_name": "Sticker | misutaaa (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20misutaaa%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.7", 
+        "buy_num": 132, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b20b23e68f4774523c7e8FtHwMJZl03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b20acdbb983569fc49ae5fhYo43sf03", 
+          "steam_price": "0.19", 
+          "steam_price_cny": "1.33"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878884, 
+        "market_hash_name": "Sticker | FL1T (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | FL1T (Holo) | Stockholm 2021", 
+        "quick_price": "1.06", 
+        "sell_min_price": "1.07", 
+        "sell_num": 149, 
+        "sell_reference_price": "1.07", 
+        "short_name": "Sticker | FL1T (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20FL1T%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.7", 
+        "buy_num": 185, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b20bd607fd10e464eeecfIl5isKbw03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b20a61e775276c49e7bcb5kWoJN0b03", 
+          "steam_price": "0.15", 
+          "steam_price_cny": "1.05"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878886, 
+        "market_hash_name": "Sticker | cadiaN (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | cadiaN (Holo) | Stockholm 2021", 
+        "quick_price": "0.83", 
+        "sell_min_price": "0.84", 
+        "sell_num": 346, 
+        "sell_reference_price": "0.84", 
+        "short_name": "Sticker | cadiaN (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20cadiaN%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.69", 
+        "buy_num": 173, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b232e04dd1d9a99fed74bil0NirSC03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b232b09463c918db985f8pOjdPcV203", 
+          "steam_price": "0.15", 
+          "steam_price_cny": "1.05"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878962, 
+        "market_hash_name": "Sticker | Qikert (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Qikert (Holo) | Stockholm 2021", 
+        "quick_price": "0.84", 
+        "sell_min_price": "0.85", 
+        "sell_num": 95, 
+        "sell_reference_price": "0.85", 
+        "short_name": "Sticker | Qikert (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Qikert%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.63", 
+        "buy_num": 182, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b22407c3c4db3806e84b0dYhU0mUb03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b22393e68f4ae3537a603b8WrFpKj03", 
+          "steam_price": "0.14", 
+          "steam_price_cny": "0.98"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878930, 
+        "market_hash_name": "Sticker | interz (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | interz (Holo) | Stockholm 2021", 
+        "quick_price": "0.73", 
+        "sell_min_price": "0.74", 
+        "sell_num": 133, 
+        "sell_reference_price": "0.74", 
+        "short_name": "Sticker | interz (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20interz%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.61", 
+        "buy_num": 298, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b213ddbb98314ada8cca5Q229YxyD03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b21347774ee3750c8e58d523muXO603", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.12"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878897, 
+        "market_hash_name": "Sticker | stavn (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | stavn (Holo) | Stockholm 2021", 
+        "quick_price": "0.73", 
+        "sell_min_price": "0.74", 
+        "sell_num": 259, 
+        "sell_reference_price": "0.74", 
+        "short_name": "Sticker | stavn (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20stavn%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.6", 
+        "buy_num": 178, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b21c59a51456d4b1f9ed3JhMc7IYh03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b21c1fbfe1b443fff1c64ciiqgaRi03", 
+          "steam_price": "0.12", 
+          "steam_price_cny": "0.84"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878925, 
+        "market_hash_name": "Sticker | refrezh (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | refrezh (Holo) | Stockholm 2021", 
+        "quick_price": "0.81", 
+        "sell_min_price": "0.82", 
+        "sell_num": 70, 
+        "sell_reference_price": "0.82", 
+        "short_name": "Sticker | refrezh (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20refrezh%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.6", 
+        "buy_num": 140, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b21a462b734bac9bc5e63XsBi9JQl03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2199213594964250a154JNPi5g1h03", 
+          "steam_price": "0.17", 
+          "steam_price_cny": "1.19"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878923, 
+        "market_hash_name": "Sticker | nafany (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | nafany (Holo) | Stockholm 2021", 
+        "quick_price": "0.83", 
+        "sell_min_price": "0.84", 
+        "sell_num": 154, 
+        "sell_reference_price": "0.84", 
+        "short_name": "Sticker | nafany (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20nafany%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.52", 
+        "buy_num": 497, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b1d899d3dd5886c700edfD4QBJc9A03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b1d88c50b20b202f74c24WOWfNsBf03", 
+          "steam_price": "0.11", 
+          "steam_price_cny": "0.77"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878835, 
+        "market_hash_name": "Sticker | electroNic (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | electroNic (Holo) | Stockholm 2021", 
+        "quick_price": "0.55", 
+        "sell_min_price": "0.56", 
+        "sell_num": 2315, 
+        "sell_reference_price": "0.56", 
+        "short_name": "Sticker | electroNic (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20electroNic%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.52", 
+        "buy_num": 131, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b2334fbfe1b43414e1a96a1g5dIEY03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b232eaffd2a8d0a706035q2RsOk2903", 
+          "steam_price": "0.12", 
+          "steam_price_cny": "0.84"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878963, 
+        "market_hash_name": "Sticker | sjuush (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | sjuush (Holo) | Stockholm 2021", 
+        "quick_price": "0.62", 
+        "sell_min_price": "0.63", 
+        "sell_num": 85, 
+        "sell_reference_price": "0.63", 
+        "short_name": "Sticker | sjuush (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20sjuush%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.51", 
+        "buy_num": 11, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b219baefc312ca5669cffWEXjZyPB03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b2196b5988057a2d8745amTBYW4CI03", 
+          "steam_price": "0.14", 
+          "steam_price_cny": "0.98"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878920, 
+        "market_hash_name": "Sticker | Plopski (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Plopski (Holo) | Stockholm 2021", 
+        "quick_price": "0.97", 
+        "sell_min_price": "0.98", 
+        "sell_num": 93, 
+        "sell_reference_price": "0.98", 
+        "short_name": "Sticker | Plopski (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Plopski%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.4", 
+        "buy_num": 104, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b23d817dbcc794b75e4421j1cCbD903", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b23d635a74b7ed7bcd4b077kYEA5W03", 
+          "steam_price": "0.17", 
+          "steam_price_cny": "1.19"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878970, 
+        "market_hash_name": "Sticker | TeSeS (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | TeSeS (Holo) | Stockholm 2021", 
+        "quick_price": "0.97", 
+        "sell_min_price": "0.98", 
+        "sell_num": 192, 
+        "sell_reference_price": "0.98", 
+        "short_name": "Sticker | TeSeS (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20TeSeS%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.33", 
+        "buy_num": 328, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b1fe7ea1a082a4b5bbbf8yH6oY4hy03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b1fdf6912b7835689f011RR90d8jR03", 
+          "steam_price": "0.08", 
+          "steam_price_cny": "0.56"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878848, 
+        "market_hash_name": "Sticker | Perfecto (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Perfecto (Holo) | Stockholm 2021", 
+        "quick_price": "0.4", 
+        "sell_min_price": "0.41", 
+        "sell_num": 936, 
+        "sell_reference_price": "0.41", 
+        "short_name": "Sticker | Perfecto (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Perfecto%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.3", 
+        "buy_num": 195, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/618b1deb0e25d27e7d5fa9b0YbHZIOpp03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 597, 
+                "internal_name": "mythical", 
+                "localized_name": "Remarkable"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 585, 
+                "internal_name": "csgo_tool_sticker", 
+                "localized_name": "Sticker"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/618b1deb3f368d1336ffd047tvKZ0TkO03", 
+          "steam_price": "0.08", 
+          "steam_price_cny": "0.56"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 878846, 
+        "market_hash_name": "Sticker | Boombl4 (Holo) | Stockholm 2021", 
+        "market_min_price": "0", 
+        "name": "Sticker | Boombl4 (Holo) | Stockholm 2021", 
+        "quick_price": "0.38", 
+        "sell_min_price": "0.39", 
+        "sell_num": 1521, 
+        "sell_reference_price": "0.39", 
+        "short_name": "Sticker | Boombl4 (Holo) | Stockholm 2021", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Boombl4%20%28Holo%29%20%7C%20Stockholm%202021", 
+        "transacted_num": 0
+      }
+    ], 
+    "page_num": 1, 
+    "page_size": 80, 
+    "total_count": 65, 
+    "total_page": 1
+  }, 
+  "msg": null
+}
