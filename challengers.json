@@ -1,0 +1,1950 @@
+{
+  "code": "OK", 
+  "data": {
+    "items": [
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.81", 
+        "buy_num": 1477, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/601201957f9d2a01f255176aiPQCqf5O03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/601201948b742725405a6bafa9RtTDwY03", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.13"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 847210, 
+        "market_hash_name": "2020 RMR Challengers", 
+        "market_min_price": "0", 
+        "name": "2020 RMR Challengers", 
+        "quick_price": "0.82", 
+        "sell_min_price": "0.83", 
+        "sell_num": 4384, 
+        "sell_reference_price": "0.83", 
+        "short_name": "2020 RMR Challengers", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/2020%20RMR%20Challengers", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.9", 
+        "buy_num": 2178, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6271d0098c378493383e7b5fSp03Mzgm04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6271d0065a2098904fbbdb39GOvcNiVA04", 
+          "steam_price": "0.18", 
+          "steam_price_cny": "1.27"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894183, 
+        "market_hash_name": "Antwerp 2022 Challengers Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Challengers Sticker Capsule", 
+        "quick_price": "0.9", 
+        "sell_min_price": "0.91", 
+        "sell_num": 10670, 
+        "sell_reference_price": "0.91", 
+        "short_name": "Antwerp 2022 Challengers Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Challengers%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1", 
+        "buy_num": 1811, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/627e1de7a1a6f448bc2442dfakR8h0ty04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/627e1de7a1a6f448bc2442dfakR8h0ty04", 
+          "steam_price": "0.19", 
+          "steam_price_cny": "1.34"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894116, 
+        "market_hash_name": "Antwerp 2022 Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Challengers Autograph Capsule", 
+        "quick_price": "0.99", 
+        "sell_min_price": "1", 
+        "sell_num": 12902, 
+        "sell_reference_price": "1", 
+        "short_name": "Antwerp 2022 Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.7", 
+        "buy_num": 681, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d544d307f9d2a54a448c385SNNZAQDi02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d544d2e5e6027a41c1fbce6K2bIDgyU02", 
+          "steam_price": "0.54", 
+          "steam_price_cny": "3.81"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 772044, 
+        "market_hash_name": "Berlin 2019 Returning Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Returning Challengers Autograph Capsule", 
+        "quick_price": "2.84", 
+        "sell_min_price": "2.85", 
+        "sell_num": 2506, 
+        "sell_reference_price": "2.85", 
+        "short_name": "Berlin 2019 Returning Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Returning%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3.2", 
+        "buy_num": 148, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d5454ce5e6027a7fdf66597lPcLKl6P02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d5454cb96dee48196b8f4dcSbmwVtma02", 
+          "steam_price": "0.52", 
+          "steam_price_cny": "3.67"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 772297, 
+        "market_hash_name": "Berlin 2019 Minor Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Minor Challengers (Holo-Foil)", 
+        "quick_price": "3.2", 
+        "sell_min_price": "3.21", 
+        "sell_num": 1572, 
+        "sell_reference_price": "3.21", 
+        "short_name": "Berlin 2019 Minor Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Minor%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "4.2", 
+        "buy_num": 204, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d544d2f7f9d2a698d000c3c9mugcqtw02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d544d2e2786fd218a79b6d2HciHJuMJ02", 
+          "steam_price": "0.84", 
+          "steam_price_cny": "5.92"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 772043, 
+        "market_hash_name": "Berlin 2019 Minor Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Minor Challengers Autograph Capsule", 
+        "quick_price": "4.61", 
+        "sell_min_price": "4.62", 
+        "sell_num": 697, 
+        "sell_reference_price": "4.62", 
+        "short_name": "Berlin 2019 Minor Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Minor%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "4.5", 
+        "buy_num": 70, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d545841143cfa6ea2255feaXvTziLu402", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d5458402786fda02d6e278aceCtvIO602", 
+          "steam_price": "0.81", 
+          "steam_price_cny": "5.71"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 772318, 
+        "market_hash_name": "Berlin 2019 Returning Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Returning Challengers (Holo-Foil)", 
+        "quick_price": "4.7", 
+        "sell_min_price": "4.71", 
+        "sell_num": 1216, 
+        "sell_reference_price": "4.71", 
+        "short_name": "Berlin 2019 Returning Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Returning%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "7", 
+        "buy_num": 656, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f9c4dfe898aa22d730eaLVP0BRZi03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f9c0c68de28e5b472d9eRiOiBP6Q03", 
+          "steam_price": "1.31", 
+          "steam_price_cny": "9.23"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875971, 
+        "market_hash_name": "Stockholm 2021 Challengers Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Challengers Sticker Capsule", 
+        "quick_price": "7.19", 
+        "sell_min_price": "7.2", 
+        "sell_num": 1869, 
+        "sell_reference_price": "7.2", 
+        "short_name": "Stockholm 2021 Challengers Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Challengers%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "14.4", 
+        "buy_num": 25, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/61720a407384e88a917a1a7bAjiSu7bY03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/61720a38c68de2b249cc98cafaUzmjDQ03", 
+          "steam_price": "2.66", 
+          "steam_price_cny": "18.75"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876158, 
+        "market_hash_name": "Stockholm 2021 Challengers Patch Pack", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Challengers Patch Pack", 
+        "quick_price": "14.88", 
+        "sell_min_price": "14.98", 
+        "sell_num": 113, 
+        "sell_reference_price": "14.98", 
+        "short_name": "Stockholm 2021 Challengers Patch Pack", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Challengers%20Patch%20Pack", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "19.2", 
+        "buy_num": 9, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c61b8b7427811226656d7rcIt9PO", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac39c02c9a162fa0e117bm6cOBsVO", 
+          "steam_price": "2.56", 
+          "steam_price_cny": "18.05"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34590, 
+        "market_hash_name": "ESL Cologne 2014 Challengers", 
+        "market_min_price": "0", 
+        "name": "ESL Cologne 2014 Challengers", 
+        "quick_price": "19.1", 
+        "sell_min_price": "0", 
+        "sell_num": 0, 
+        "sell_reference_price": "19.2", 
+        "short_name": "ESL Cologne 2014 Challengers", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20Cologne%202014%20Challengers", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "20", 
+        "buy_num": 400, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5bab907f9d2af72b7cf2c6F87bMhEl02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5bab8f5e6027d98f096b5dYqVt2CFx02", 
+          "steam_price": "4.21", 
+          "steam_price_cny": "29.68"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768393, 
+        "market_hash_name": "Katowice 2019 Returning Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Returning Challengers Autograph Capsule", 
+        "quick_price": "20.85", 
+        "sell_min_price": "20.95", 
+        "sell_num": 441, 
+        "sell_reference_price": "20.95", 
+        "short_name": "Katowice 2019 Returning Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Returning%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "19", 
+        "buy_num": 436, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5baba97f9d2a056fbf68e7Mjclibvb02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5baba4143cfa3c5ed45150ti9sxbzN02", 
+          "steam_price": "3.59", 
+          "steam_price_cny": "25.31"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768435, 
+        "market_hash_name": "Katowice 2019 Minor Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Minor Challengers Autograph Capsule", 
+        "quick_price": "20.93", 
+        "sell_min_price": "21.03", 
+        "sell_num": 126, 
+        "sell_reference_price": "21.03", 
+        "short_name": "Katowice 2019 Minor Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Minor%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "25", 
+        "buy_num": 49, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5bda60a8a7f25213b52a75bcg6PiIabZ", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b87538c6f049417656f3141uNmzepOW", 
+          "steam_price": "4.65", 
+          "steam_price_cny": "32.78"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760539, 
+        "market_hash_name": "London 2018 Minor Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "London 2018 Minor Challengers Autograph Capsule", 
+        "quick_price": "27.85", 
+        "sell_min_price": "27.95", 
+        "sell_num": 159, 
+        "sell_reference_price": "27.95", 
+        "short_name": "London 2018 Minor Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Minor%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "27", 
+        "buy_num": 48, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5babcda7f2524b5e7bddfabiBtqOlx02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5baba57f9d2a000894e7a91O0YSNSV02", 
+          "steam_price": "5.17", 
+          "steam_price_cny": "36.44"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768439, 
+        "market_hash_name": "Katowice 2019 Minor Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Minor Challengers (Holo-Foil)", 
+        "quick_price": "27.88", 
+        "sell_min_price": "27.98", 
+        "sell_num": 220, 
+        "sell_reference_price": "27.98", 
+        "short_name": "Katowice 2019 Minor Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Minor%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "29.6", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5babb78b74274d2fd214d61eED95HH02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5bab88a7f25245870b860f70zA808Z02", 
+          "steam_price": "6.91", 
+          "steam_price_cny": "48.71"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768437, 
+        "market_hash_name": "Katowice 2019 Returning Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Returning Challengers (Holo-Foil)", 
+        "quick_price": "34.25", 
+        "sell_min_price": "34.35", 
+        "sell_num": 162, 
+        "sell_reference_price": "34.35", 
+        "short_name": "Katowice 2019 Returning Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Returning%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "29.4", 
+        "buy_num": 18, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5bda60a496dee436af1fac14BqSNBrxR", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b8753ff7f9d2aee986c7907UCfiNzp0", 
+          "steam_price": "6.3", 
+          "steam_price_cny": "44.41"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760540, 
+        "market_hash_name": "London 2018 Minor Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "London 2018 Minor Challengers (Holo-Foil)", 
+        "quick_price": "35.25", 
+        "sell_min_price": "35.35", 
+        "sell_num": 94, 
+        "sell_reference_price": "35.35", 
+        "short_name": "London 2018 Minor Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Minor%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "27.2", 
+        "buy_num": 12, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5bda61076f04945250586f0bQ5OT4k4c", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b875ef196dee47304f8d67fuXSueGq2", 
+          "steam_price": "5.81", 
+          "steam_price_cny": "40.95"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760635, 
+        "market_hash_name": "London 2018 Returning Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "London 2018 Returning Challengers Autograph Capsule", 
+        "quick_price": "36.3", 
+        "sell_min_price": "36.4", 
+        "sell_num": 38, 
+        "sell_reference_price": "36.4", 
+        "short_name": "London 2018 Returning Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Returning%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "35", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5b87b94e7f9d2a106f1df1c8935Kxiq1", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b87b94d7f9d2a141eb60d2fdREMWilm", 
+          "steam_price": "6.69", 
+          "steam_price_cny": "47.16"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760923, 
+        "market_hash_name": "London 2018 Returning Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "London 2018 Returning Challengers (Holo-Foil)", 
+        "quick_price": "38.88", 
+        "sell_min_price": "38.98", 
+        "sell_num": 56, 
+        "sell_reference_price": "38.98", 
+        "short_name": "London 2018 Returning Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Returning%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "73", 
+        "buy_num": 90, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c466a7f2526e91b70e44ile0Mkmf", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ace21ee4c0f9d5f6b5ddc9dzmxY3C", 
+          "steam_price": "11.85", 
+          "steam_price_cny": "83.53"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34267, 
+        "market_hash_name": "Boston 2018 Returning Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Returning Challengers Autograph Capsule", 
+        "quick_price": "75.4", 
+        "sell_min_price": "75.5", 
+        "sell_num": 199, 
+        "sell_reference_price": "75.5", 
+        "short_name": "Boston 2018 Returning Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Returning%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "74", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c49da750145096a0e48csc5DaQQN", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac47816b6d4b589e14bedVFxb5gCE", 
+          "steam_price": "13.08", 
+          "steam_price_cny": "92.2"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35096, 
+        "market_hash_name": "Krakow 2017 Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Krakow 2017 Challengers (Holo-Foil)", 
+        "quick_price": "78.55", 
+        "sell_min_price": "78.65", 
+        "sell_num": 160, 
+        "sell_reference_price": "78.65", 
+        "short_name": "Krakow 2017 Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Krakow%202017%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "86", 
+        "buy_num": 26, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c53c16b6d4cf92fed611cmB5Bzlt", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acd46a7f252064b32512bNh8ChPCR", 
+          "steam_price": "14.74", 
+          "steam_price_cny": "103.9"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35537, 
+        "market_hash_name": "MLG Columbus 2016 Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "MLG Columbus 2016 Challengers (Holo-Foil)", 
+        "quick_price": "91.88", 
+        "sell_min_price": "91.98", 
+        "sell_num": 79, 
+        "sell_reference_price": "91.98", 
+        "short_name": "MLG Columbus 2016 Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MLG%20Columbus%202016%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "84", 
+        "buy_num": 30, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c4537f9d2a0451f02e00HsD77b6v", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7abfa55e60271ace2e5913JIDVhtPu", 
+          "steam_price": "15.36", 
+          "steam_price_cny": "108.27"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34262, 
+        "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule", 
+        "quick_price": "93.4", 
+        "sell_min_price": "93.5", 
+        "sell_num": 59, 
+        "sell_reference_price": "93.5", 
+        "short_name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Minor%20Challengers%20with%20Flash%20Gaming%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "87", 
+        "buy_num": 8, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c5316f0494269f5b77f6zoSMiNOa", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac7355e60271ad1d2b1f5GLzbM3Y4", 
+          "steam_price": "17.18", 
+          "steam_price_cny": "121.1"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34378, 
+        "market_hash_name": "Cologne 2016 Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Cologne 2016 Challengers (Holo-Foil)", 
+        "quick_price": "94.05", 
+        "sell_min_price": "94.15", 
+        "sell_num": 96, 
+        "sell_reference_price": "94.15", 
+        "short_name": "Cologne 2016 Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Cologne%202016%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "93.18", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c45220e3db797e323b9fQY2vwjrp", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac8237f9d2acfac33b3d4uxQXAkW1", 
+          "steam_price": "17.9", 
+          "steam_price_cny": "126.18"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34261, 
+        "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)", 
+        "quick_price": "98.78", 
+        "sell_min_price": "98.88", 
+        "sell_num": 30, 
+        "sell_reference_price": "98.88", 
+        "short_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Minor%20Challengers%20with%20Flash%20Gaming%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "88", 
+        "buy_num": 7, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02f35fb758a815749bce1lhM1oK3u", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acb2602c9a187985061e0AzHmUeQK", 
+          "steam_price": "21.79", 
+          "steam_price_cny": "153.6"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34163, 
+        "market_hash_name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016", 
+        "quick_price": "119.49", 
+        "sell_min_price": "119.99", 
+        "sell_num": 14, 
+        "sell_reference_price": "119.99", 
+        "short_name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Challengers%20%28Foil%29%20%7C%20MLG%20Columbus%202016", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "110", 
+        "buy_num": 15, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c465adce5f693f0e78b4fgRiERTQ", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acb486f0494b8ff8554d3NlSiEpgJ", 
+          "steam_price": "24.5", 
+          "steam_price_cny": "172.7"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34266, 
+        "market_hash_name": "Boston 2018 Returning Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Returning Challengers (Holo-Foil)", 
+        "quick_price": "123.5", 
+        "sell_min_price": "124", 
+        "sell_num": 54, 
+        "sell_reference_price": "124", 
+        "short_name": "Boston 2018 Returning Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Returning%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "120", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c59020e3db7d343dd0e1FZtVT1lE", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac39b6f0494b9002522cffzA8Bm6M", 
+          "steam_price": "25.48", 
+          "steam_price_cny": "179.61"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34602, 
+        "market_hash_name": "ESL One Cologne 2015 Challengers (Foil)", 
+        "market_min_price": "0", 
+        "name": "ESL One Cologne 2015 Challengers (Foil)", 
+        "quick_price": "179.11", 
+        "sell_min_price": "199", 
+        "sell_num": 2, 
+        "sell_reference_price": "179.61", 
+        "short_name": "ESL One Cologne 2015 Challengers (Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Cologne%202015%20Challengers%20%28Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "126", 
+        "buy_num": 5, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0305c16b6d4a1e1ea28b3Se9wlwD2", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acd04aa49f17f00e39060q6g398vz", 
+          "steam_price": "30.52", 
+          "steam_price_cny": "215.14"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34161, 
+        "market_hash_name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015", 
+        "quick_price": "187.38", 
+        "sell_min_price": "187.88", 
+        "sell_num": 4, 
+        "sell_reference_price": "187.88", 
+        "short_name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Challengers%20%28Foil%29%20%7C%20Cluj-Napoca%202015", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "111", 
+        "buy_num": 1, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c619143cfac08f86bea0RIih3YLp", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac3917f9d2acfa9e9bdf64b0LLQVv", 
+          "steam_price": "38.82", 
+          "steam_price_cny": "273.64"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34494, 
+        "market_hash_name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)", 
+        "market_min_price": "0", 
+        "name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)", 
+        "quick_price": "219.5", 
+        "sell_min_price": "220", 
+        "sell_num": 34, 
+        "sell_reference_price": "220", 
+        "short_name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/DreamHack%20Cluj-Napoca%202015%20Challengers%20%28Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "210", 
+        "buy_num": 59, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c50ba7501446f4807151chSyBsxl", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac5406f0494b903358e1d2BHg2b4J", 
+          "steam_price": "42.48", 
+          "steam_price_cny": "299.44"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34148, 
+        "market_hash_name": "Atlanta 2017 Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Atlanta 2017 Challengers (Holo-Foil)", 
+        "quick_price": "219.9", 
+        "sell_min_price": "220.4", 
+        "sell_num": 68, 
+        "sell_reference_price": "220.4", 
+        "short_name": "Atlanta 2017 Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Atlanta%202017%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "193", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02cc3fb758a6794d5f8f01911LOeB", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac3dfadce5f316ae8e421Hp9j3BfH", 
+          "steam_price": "43.37", 
+          "steam_price_cny": "305.72"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34160, 
+        "market_hash_name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017", 
+        "quick_price": "238", 
+        "sell_min_price": "238.5", 
+        "sell_num": 12, 
+        "sell_reference_price": "238.5", 
+        "short_name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Challengers%20%28Foil%29%20%7C%20Atlanta%202017", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "238", 
+        "buy_num": 47, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c6496f0494273f6fb391Mmhu6DT7", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac9f8a750141effdbc19fWaC1w77J", 
+          "steam_price": "47.76", 
+          "steam_price_cny": "336.66"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34593, 
+        "market_hash_name": "ESL One Cologne 2014 Challengers", 
+        "market_min_price": "0", 
+        "name": "ESL One Cologne 2014 Challengers", 
+        "quick_price": "245.5", 
+        "sell_min_price": "246", 
+        "sell_num": 114, 
+        "sell_reference_price": "246", 
+        "short_name": "ESL One Cologne 2014 Challengers", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Cologne%202014%20Challengers", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "230", 
+        "buy_num": 145, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c49eee4c0f7a658788f7VXF99mzv", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acb9716b6d4d4ce61be2dRvZTQ60l", 
+          "steam_price": "43.4", 
+          "steam_price_cny": "305.93"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35097, 
+        "market_hash_name": "Krakow 2017 Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Krakow 2017 Challengers Autograph Capsule", 
+        "quick_price": "256.4", 
+        "sell_min_price": "256.9", 
+        "sell_num": 335, 
+        "sell_reference_price": "256.9", 
+        "short_name": "Krakow 2017 Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Krakow%202017%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "212", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02f3420e3db3012a91735ODfxReFi", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acc5f20e3db6bd78871c5YAJB3Ko8", 
+          "steam_price": "48.5", 
+          "steam_price_cny": "341.88"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34162, 
+        "market_hash_name": "Autograph Capsule | Challengers (Foil) | Cologne 2016", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016", 
+        "quick_price": "264", 
+        "sell_min_price": "264.5", 
+        "sell_num": 7, 
+        "sell_reference_price": "264.5", 
+        "short_name": "Autograph Capsule | Challengers (Foil) | Cologne 2016", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Challengers%20%28Foil%29%20%7C%20Cologne%202016", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "421", 
+        "buy_num": 2, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c450aa49f1109b1e248ccZ8gr2t1", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac89216b6d4d0cbf04c38xRKDLLmE", 
+          "steam_price": "105.46", 
+          "steam_price_cny": "743.39"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34259, 
+        "market_hash_name": "Boston 2018 Minor Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Minor Challengers (Holo-Foil)", 
+        "quick_price": "449.5", 
+        "sell_min_price": "450", 
+        "sell_num": 14, 
+        "sell_reference_price": "450", 
+        "short_name": "Boston 2018 Minor Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Minor%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "810", 
+        "buy_num": 10, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c45402c9a189538c5b6ckexvL0Co", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acdefa7f2520651c1cd23ZselS9ao", 
+          "steam_price": "249.96", 
+          "steam_price_cny": "1761.97"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34260, 
+        "market_hash_name": "Boston 2018 Minor Challengers Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Minor Challengers Autograph Capsule", 
+        "quick_price": "1099.5", 
+        "sell_min_price": "1100", 
+        "sell_num": 2, 
+        "sell_reference_price": "1100", 
+        "short_name": "Boston 2018 Minor Challengers Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Minor%20Challengers%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2650", 
+        "buy_num": 8, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c5d602c9a181dd0537e2UEjBe3l6", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ae778fb758ad36b6106dbe21k63gR", 
+          "steam_price": "506.02", 
+          "steam_price_cny": "3566.93"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34611, 
+        "market_hash_name": "ESL One Katowice 2015 Challengers (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "ESL One Katowice 2015 Challengers (Holo-Foil)", 
+        "quick_price": "2796.9", 
+        "sell_min_price": "2797.4", 
+        "sell_num": 46, 
+        "sell_reference_price": "2797.4", 
+        "short_name": "ESL One Katowice 2015 Challengers (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Katowice%202015%20Challengers%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "50000", 
+        "buy_num": 52, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c65b143cfa2fdc6ad199BZxxEt5e", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7aff7196dee4438c49d656BWeaLMLZ", 
+          "steam_price": "11359.06", 
+          "steam_price_cny": "80070.01"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34587, 
+        "market_hash_name": "EMS Katowice 2014 Challengers", 
+        "market_min_price": "0", 
+        "name": "EMS Katowice 2014 Challengers", 
+        "quick_price": "80069.51", 
+        "sell_min_price": "88888", 
+        "sell_num": 5, 
+        "sell_reference_price": "80070.01", 
+        "short_name": "EMS Katowice 2014 Challengers", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/EMS%20Katowice%202014%20Challengers", 
+        "transacted_num": 0
+      }
+    ], 
+    "page_num": 1, 
+    "page_size": 80, 
+    "total_count": 38, 
+    "total_page": 1
+  }, 
+  "msg": null
+}

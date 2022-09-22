@@ -1,0 +1,1593 @@
+{
+  "code": "OK", 
+  "data": {
+    "items": [
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.81", 
+        "buy_num": 2304, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/601200a02786fd5a1f982a76GjgMyV1p03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6012009f5e6027172ca6e8eafk3i3prI03", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.13"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 847193, 
+        "market_hash_name": "2020 RMR Legends", 
+        "market_min_price": "0", 
+        "name": "2020 RMR Legends", 
+        "quick_price": "0.83", 
+        "sell_min_price": "0.84", 
+        "sell_num": 13309, 
+        "sell_reference_price": "0.84", 
+        "short_name": "2020 RMR Legends", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/2020%20RMR%20Legends", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.01", 
+        "buy_num": 4193, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6271ce6e499f99a86b827761LAc8u1cb04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6271ce6b2011ec4cad7d5ec52h5HThqS04", 
+          "steam_price": "0.19", 
+          "steam_price_cny": "1.34"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894086, 
+        "market_hash_name": "Antwerp 2022 Legends Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Legends Sticker Capsule", 
+        "quick_price": "1.03", 
+        "sell_min_price": "1.04", 
+        "sell_num": 20339, 
+        "sell_reference_price": "1.04", 
+        "short_name": "Antwerp 2022 Legends Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Legends%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.1", 
+        "buy_num": 4447, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/627e0a9a7f559b96efd77168tHxxMdKb04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/627e0a802d3a5498ea40e5cd46Xg2CiU04", 
+          "steam_price": "0.21", 
+          "steam_price_cny": "1.48"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894166, 
+        "market_hash_name": "Antwerp 2022 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Legends Autograph Capsule", 
+        "quick_price": "1.16", 
+        "sell_min_price": "1.17", 
+        "sell_num": 13951, 
+        "sell_reference_price": "1.17", 
+        "short_name": "Antwerp 2022 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1.9", 
+        "buy_num": 1513, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f973affd2aa8fc6bed30ySk0qrLV03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f96f35a74b56d2d300cboYMGOyY003", 
+          "steam_price": "0.35", 
+          "steam_price_cny": "2.47"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875864, 
+        "market_hash_name": "Stockholm 2021 Legends Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Legends Sticker Capsule", 
+        "quick_price": "1.99", 
+        "sell_min_price": "2", 
+        "sell_num": 3066, 
+        "sell_reference_price": "2", 
+        "short_name": "Stockholm 2021 Legends Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Legends%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.9", 
+        "buy_num": 676, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d54488296dee42aae927aea8wT5Wy7f02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d544881143cfa2a12aa1678LlCwYvdS02", 
+          "steam_price": "0.59", 
+          "steam_price_cny": "4.16"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 771977, 
+        "market_hash_name": "Berlin 2019 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Legends Autograph Capsule", 
+        "quick_price": "2.96", 
+        "sell_min_price": "2.97", 
+        "sell_num": 3979, 
+        "sell_reference_price": "2.97", 
+        "short_name": "Berlin 2019 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "3.3", 
+        "buy_num": 78, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5d544ff7143cfa67c1aed55dcz3X0Mu602", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5d544ff42786fd42508cb9efGzWSS5ji02", 
+          "steam_price": "0.72", 
+          "steam_price_cny": "5.08"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 772238, 
+        "market_hash_name": "Berlin 2019 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Berlin 2019 Legends (Holo-Foil)", 
+        "quick_price": "3.88", 
+        "sell_min_price": "3.89", 
+        "sell_num": 1986, 
+        "sell_reference_price": "3.89", 
+        "short_name": "Berlin 2019 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Berlin%202019%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "7.9", 
+        "buy_num": 185, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fa9a2d683e13212df1115LVd5Jg403", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fa989d3dd58937bd9ca69DLW6aYc03", 
+          "steam_price": "1.51", 
+          "steam_price_cny": "10.64"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875990, 
+        "market_hash_name": "Stockholm 2021 Legends Patch Pack", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Legends Patch Pack", 
+        "quick_price": "9.87", 
+        "sell_min_price": "9.88", 
+        "sell_num": 213, 
+        "sell_reference_price": "9.88", 
+        "short_name": "Stockholm 2021 Legends Patch Pack", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Legends%20Patch%20Pack", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "17", 
+        "buy_num": 5, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c6496f0494273f6fb391Mmhu6DT7", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac9f8a750141effdbc19fWaC1w77J", 
+          "steam_price": "2.89", 
+          "steam_price_cny": "20.37"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34591, 
+        "market_hash_name": "ESL Cologne 2014 Legends", 
+        "market_min_price": "0", 
+        "name": "ESL Cologne 2014 Legends", 
+        "quick_price": "16.9", 
+        "sell_min_price": "0", 
+        "sell_num": 0, 
+        "sell_reference_price": "17", 
+        "short_name": "ESL Cologne 2014 Legends", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20Cologne%202014%20Legends", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "19", 
+        "buy_num": 419, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5ba5025e6027932fd3777cte1ezXi602", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5ba4fe8b742737284410bb1QwiORGz02", 
+          "steam_price": "3.45", 
+          "steam_price_cny": "24.32"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768259, 
+        "market_hash_name": "Katowice 2019 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Legends Autograph Capsule", 
+        "quick_price": "19.4", 
+        "sell_min_price": "19.5", 
+        "sell_num": 653, 
+        "sell_reference_price": "19.5", 
+        "short_name": "Katowice 2019 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "22", 
+        "buy_num": 92, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5c5ba927143cfa369bbf76e1vWvN7GHR02", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5c5ba9257f9d2afa8a242b65JUVdQq2s02", 
+          "steam_price": "5.25", 
+          "steam_price_cny": "37.01"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 768366, 
+        "market_hash_name": "Katowice 2019 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Katowice 2019 Legends (Holo-Foil)", 
+        "quick_price": "26.7", 
+        "sell_min_price": "26.8", 
+        "sell_num": 297, 
+        "sell_reference_price": "26.8", 
+        "short_name": "Katowice 2019 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Katowice%202019%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "36", 
+        "buy_num": 34, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5bda60ab6f04944e5ae912b6JebYv39N", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b87538b7f9d2ae5f14681e1kjpJvr2e", 
+          "steam_price": "7.02", 
+          "steam_price_cny": "49.48"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760538, 
+        "market_hash_name": "London 2018 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "London 2018 Legends Autograph Capsule", 
+        "quick_price": "41.08", 
+        "sell_min_price": "41.18", 
+        "sell_num": 32, 
+        "sell_reference_price": "41.18", 
+        "short_name": "London 2018 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "42", 
+        "buy_num": 49, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c4df69b21adecb234a74zXYuzA2e", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ae4ea6f049413f5653c93XSEFSTXi", 
+          "steam_price": "7.56", 
+          "steam_price_cny": "53.29"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35100, 
+        "market_hash_name": "Krakow 2017 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Krakow 2017 Legends (Holo-Foil)", 
+        "quick_price": "45.72", 
+        "sell_min_price": "45.82", 
+        "sell_num": 98, 
+        "sell_reference_price": "45.82", 
+        "short_name": "Krakow 2017 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Krakow%202017%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "38", 
+        "buy_num": 2, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5bda610e8b7427a6747d3fefJZgBtFF3", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5b875f4da7f2522ef7ef12c1pAmbOisV", 
+          "steam_price": "8.76", 
+          "steam_price_cny": "61.75"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 760764, 
+        "market_hash_name": "London 2018 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "London 2018 Legends (Holo-Foil)", 
+        "quick_price": "54.87", 
+        "sell_min_price": "54.97", 
+        "sell_num": 46, 
+        "sell_reference_price": "54.97", 
+        "short_name": "London 2018 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/London%202018%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "54", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c61aee4c0facfdd7f812Jt8PuwsI", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac72b143cfafcb7c8d72fSyJEBGaw", 
+          "steam_price": "10.42", 
+          "steam_price_cny": "73.45"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34498, 
+        "market_hash_name": "DreamHack Cluj-Napoca 2015 Legends (Foil)", 
+        "market_min_price": "0", 
+        "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)", 
+        "quick_price": "59.09", 
+        "sell_min_price": "59.19", 
+        "sell_num": 36, 
+        "sell_reference_price": "59.19", 
+        "short_name": "DreamHack Cluj-Napoca 2015 Legends (Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/DreamHack%20Cluj-Napoca%202015%20Legends%20%28Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "51", 
+        "buy_num": 47, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c4946f0494269f5b77b7dHWaLY0T", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7abfa67f9d2acfb02ad204BWPxQ3OY", 
+          "steam_price": "10.17", 
+          "steam_price_cny": "71.69"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34253, 
+        "market_hash_name": "Boston 2018 Attending Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Attending Legends Autograph Capsule", 
+        "quick_price": "61.9", 
+        "sell_min_price": "62", 
+        "sell_num": 250, 
+        "sell_reference_price": "62", 
+        "short_name": "Boston 2018 Attending Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Attending%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "56", 
+        "buy_num": 13, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c5ce16b6d4e65112232cggFwOgfB", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac46b46072b5d84c0aeb73omBJivY", 
+          "steam_price": "10.23", 
+          "steam_price_cny": "72.11"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34606, 
+        "market_hash_name": "ESL One Cologne 2015 Legends (Foil)", 
+        "market_min_price": "0", 
+        "name": "ESL One Cologne 2015 Legends (Foil)", 
+        "quick_price": "68.9", 
+        "sell_min_price": "69", 
+        "sell_num": 45, 
+        "sell_reference_price": "69", 
+        "short_name": "ESL One Cologne 2015 Legends (Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Cologne%202015%20Legends%20%28Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "70", 
+        "buy_num": 7, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02fddee4c0f7bdee8f4ffBQB42s2i", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ae3fdee4c0fc2cd05fbbao4IWmac6", 
+          "steam_price": "12.5", 
+          "steam_price_cny": "88.11"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34198, 
+        "market_hash_name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015", 
+        "quick_price": "72.89", 
+        "sell_min_price": "72.99", 
+        "sell_num": 37, 
+        "sell_reference_price": "72.99", 
+        "short_name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Legends%20%28Foil%29%20%7C%20Cluj-Napoca%202015", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "66", 
+        "buy_num": 3, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c48bfb758aa5ce74118eN4xkQy2v", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7abfab8b74278e456658f84588cK4K", 
+          "steam_price": "14.44", 
+          "steam_price_cny": "101.79"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34252, 
+        "market_hash_name": "Boston 2018 Attending Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Attending Legends (Holo-Foil)", 
+        "quick_price": "79.7", 
+        "sell_min_price": "79.8", 
+        "sell_num": 87, 
+        "sell_reference_price": "79.8", 
+        "short_name": "Boston 2018 Attending Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Attending%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "90", 
+        "buy_num": 14, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c5348b74278d1695a817vc6weHgk", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac7558b74278e3ebd8c0crmcN61FB", 
+          "steam_price": "15.03", 
+          "steam_price_cny": "105.95"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34381, 
+        "market_hash_name": "Cologne 2016 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Cologne 2016 Legends (Holo-Foil)", 
+        "quick_price": "91.35", 
+        "sell_min_price": "91.45", 
+        "sell_num": 257, 
+        "sell_reference_price": "91.45", 
+        "short_name": "Cologne 2016 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Cologne%202016%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "82", 
+        "buy_num": 9, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c53faa49f108f9066e32YOUfHxfV", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac9817f9d2acfb13587ceDD99a1dH", 
+          "steam_price": "16.38", 
+          "steam_price_cny": "115.46"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35541, 
+        "market_hash_name": "MLG Columbus 2016 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "MLG Columbus 2016 Legends (Holo-Foil)", 
+        "quick_price": "93.49", 
+        "sell_min_price": "93.59", 
+        "sell_num": 41, 
+        "sell_reference_price": "93.59", 
+        "short_name": "MLG Columbus 2016 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/MLG%20Columbus%202016%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "94", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02e1aadce5f2976eb3efacfxJkLXF", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac71120e3db5068798db31hgr9xKQ", 
+          "steam_price": "16.21", 
+          "steam_price_cny": "114.26"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34200, 
+        "market_hash_name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016", 
+        "quick_price": "94.7", 
+        "sell_min_price": "94.8", 
+        "sell_num": 21, 
+        "sell_reference_price": "94.8", 
+        "short_name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Legends%20%28Foil%29%20%7C%20MLG%20Columbus%202016", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "133", 
+        "buy_num": 1, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02e116f0494b408205129YuMYmYEV", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac9ba69b21ad288644e97GQg0bOi4", 
+          "steam_price": "33", 
+          "steam_price_cny": "232.62"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34199, 
+        "market_hash_name": "Autograph Capsule | Legends (Foil) | Cologne 2016", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Legends (Foil) | Cologne 2016", 
+        "quick_price": "196.49", 
+        "sell_min_price": "196.99", 
+        "sell_num": 9, 
+        "sell_reference_price": "196.99", 
+        "short_name": "Autograph Capsule | Legends (Foil) | Cologne 2016", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Legends%20%28Foil%29%20%7C%20Cologne%202016", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "211", 
+        "buy_num": 78, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c4e416b6d4e651122289OSi8QAd0", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac585adce5f316ae8e5b0VNK3pTlc", 
+          "steam_price": "39.36", 
+          "steam_price_cny": "277.45"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 35101, 
+        "market_hash_name": "Krakow 2017 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Krakow 2017 Legends Autograph Capsule", 
+        "quick_price": "214.5", 
+        "sell_min_price": "215", 
+        "sell_num": 276, 
+        "sell_reference_price": "215", 
+        "short_name": "Krakow 2017 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Krakow%202017%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "290", 
+        "buy_num": 5, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c51d46072b878a36c2271gg414K2", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac4fcee4c0f799196728aa4UIiHwe", 
+          "steam_price": "48.9", 
+          "steam_price_cny": "344.7"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34151, 
+        "market_hash_name": "Atlanta 2017 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Atlanta 2017 Legends (Holo-Foil)", 
+        "quick_price": "309.5", 
+        "sell_min_price": "310", 
+        "sell_num": 71, 
+        "sell_reference_price": "310", 
+        "short_name": "Atlanta 2017 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Atlanta%202017%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "304", 
+        "buy_num": 16, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c61b8b7427811226656d7rcIt9PO", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac39c02c9a162fa0e117bm6cOBsVO", 
+          "steam_price": "54.39", 
+          "steam_price_cny": "383.4"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34597, 
+        "market_hash_name": "ESL One Cologne 2014 Legends", 
+        "market_min_price": "0", 
+        "name": "ESL One Cologne 2014 Legends", 
+        "quick_price": "317.5", 
+        "sell_min_price": "318", 
+        "sell_num": 365, 
+        "sell_reference_price": "318", 
+        "short_name": "ESL One Cologne 2014 Legends", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Cologne%202014%20Legends", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "353", 
+        "buy_num": 7, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa02cc4aa49f1cc4513ce54vK0bRvGP", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac3505e60271ad99b9bcdiYmRIUbo", 
+          "steam_price": "75.99", 
+          "steam_price_cny": "535.65"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34197, 
+        "market_hash_name": "Autograph Capsule | Legends (Foil) | Atlanta 2017", 
+        "market_min_price": "0", 
+        "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017", 
+        "quick_price": "433.22", 
+        "sell_min_price": "433.72", 
+        "sell_num": 31, 
+        "sell_reference_price": "433.72", 
+        "short_name": "Autograph Capsule | Legends (Foil) | Atlanta 2017", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Autograph%20Capsule%20%7C%20Legends%20%28Foil%29%20%7C%20Atlanta%202017", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "630", 
+        "buy_num": 6, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c70920e3db7d343dd1eapeW89IdI", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acdbf69b21ad288645233msQC0362", 
+          "steam_price": "109.55", 
+          "steam_price_cny": "772.22"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34489, 
+        "market_hash_name": "DreamHack 2014 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "DreamHack 2014 Legends (Holo-Foil)", 
+        "quick_price": "671.39", 
+        "sell_min_price": "671.89", 
+        "sell_num": 18, 
+        "sell_reference_price": "671.89", 
+        "short_name": "DreamHack 2014 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/DreamHack%202014%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "950", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c5fc8b74279968f90fb3HPD03467", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7acd45143cfafcb7c8d84bQ33iVxJF", 
+          "steam_price": "191.22", 
+          "steam_price_cny": "1347.91"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34615, 
+        "market_hash_name": "ESL One Katowice 2015 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "ESL One Katowice 2015 Legends (Holo-Foil)", 
+        "quick_price": "992.5", 
+        "sell_min_price": "993", 
+        "sell_num": 64, 
+        "sell_reference_price": "993", 
+        "short_name": "ESL One Katowice 2015 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/ESL%20One%20Katowice%202015%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "589", 
+        "buy_num": 9, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c497143cfab4eb255bf0NVkPuDKV", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac97420e3db5062a7af12h5vc8gWi", 
+          "steam_price": "169.34", 
+          "steam_price_cny": "1193.68"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34258, 
+        "market_hash_name": "Boston 2018 Legends Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Legends Autograph Capsule", 
+        "quick_price": "999.5", 
+        "sell_min_price": "1000", 
+        "sell_num": 3, 
+        "sell_reference_price": "1000", 
+        "short_name": "Boston 2018 Legends Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Legends%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "730", 
+        "buy_num": 4, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c4965e60272c2cfffeeaOZyoAmWG", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac7faa7f2520655af856bgxvM8ha1", 
+          "steam_price": "249.67", 
+          "steam_price_cny": "1759.92"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34257, 
+        "market_hash_name": "Boston 2018 Legends (Holo-Foil)", 
+        "market_min_price": "0", 
+        "name": "Boston 2018 Legends (Holo-Foil)", 
+        "quick_price": "1047.5", 
+        "sell_min_price": "1048", 
+        "sell_num": 4, 
+        "sell_reference_price": "1048", 
+        "short_name": "Boston 2018 Legends (Holo-Foil)", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Boston%202018%20Legends%20%28Holo-Foil%29", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "570", 
+        "buy_num": 78, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/5aa0c65caa49f1109b1e25aeWQR8pF0z", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/5a7ac2ca6f0494b8fee8ffc3Sg4ww40g", 
+          "steam_price": "11576.11", 
+          "steam_price_cny": "81600"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 34588, 
+        "market_hash_name": "EMS Katowice 2014 Legends", 
+        "market_min_price": "0", 
+        "name": "EMS Katowice 2014 Legends", 
+        "quick_price": "81599.5", 
+        "sell_min_price": "97998", 
+        "sell_num": 5, 
+        "sell_reference_price": "81600", 
+        "short_name": "EMS Katowice 2014 Legends", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/EMS%20Katowice%202014%20Legends", 
+        "transacted_num": 0
+      }
+    ], 
+    "page_num": 1, 
+    "page_size": 80, 
+    "total_count": 31, 
+    "total_page": 1
+  }, 
+  "msg": null
+}

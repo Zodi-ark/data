@@ -1,0 +1,267 @@
+{
+  "code": "OK", 
+  "data": {
+    "items": [
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.81", 
+        "buy_num": 1748, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/60120232143cfa21765d25e7beETdKb703", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/601202318b7427712beac29fgzmAv3tS03", 
+          "steam_price": "0.16", 
+          "steam_price_cny": "1.13"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 847235, 
+        "market_hash_name": "2020 RMR Contenders", 
+        "market_min_price": "0", 
+        "name": "2020 RMR Contenders", 
+        "quick_price": "0.83", 
+        "sell_min_price": "0.84", 
+        "sell_num": 5449, 
+        "sell_reference_price": "0.84", 
+        "short_name": "2020 RMR Contenders", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/2020%20RMR%20Contenders", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "0.9", 
+        "buy_num": 2868, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6271cea7345c377bafff8e87Q74W4xIU04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6271cea357166db96b734e30SKYuCFlr04", 
+          "steam_price": "0.18", 
+          "steam_price_cny": "1.27"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894095, 
+        "market_hash_name": "Antwerp 2022 Contenders Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Contenders Sticker Capsule", 
+        "quick_price": "0.91", 
+        "sell_min_price": "0.92", 
+        "sell_num": 15106, 
+        "sell_reference_price": "0.92", 
+        "short_name": "Antwerp 2022 Contenders Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Contenders%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "1", 
+        "buy_num": 1621, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/627e1cddeace07012edf8373vkzYHqsj04", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/627e1cddeace07012edf8373vkzYHqsj04", 
+          "steam_price": "0.19", 
+          "steam_price_cny": "1.34"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 894283, 
+        "market_hash_name": "Antwerp 2022 Contenders Autograph Capsule", 
+        "market_min_price": "0", 
+        "name": "Antwerp 2022 Contenders Autograph Capsule", 
+        "quick_price": "0.99", 
+        "sell_min_price": "1", 
+        "sell_num": 10064, 
+        "sell_reference_price": "1", 
+        "short_name": "Antwerp 2022 Contenders Autograph Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Antwerp%202022%20Contenders%20Autograph%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "2.7", 
+        "buy_num": 818, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171f8626f5a440dcf0142b6cgjAjlOr03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171f85f376986411a461484GGvScpHt03", 
+          "steam_price": "0.54", 
+          "steam_price_cny": "3.81"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 875837, 
+        "market_hash_name": "Stockholm 2021 Contenders Sticker Capsule", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Contenders Sticker Capsule", 
+        "quick_price": "2.85", 
+        "sell_min_price": "2.86", 
+        "sell_num": 1732, 
+        "sell_reference_price": "2.86", 
+        "short_name": "Stockholm 2021 Contenders Sticker Capsule", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Contenders%20Sticker%20Capsule", 
+        "transacted_num": 0
+      }, 
+      {
+        "appid": 730, 
+        "bookmarked": false, 
+        "buy_max_price": "11", 
+        "buy_num": 58, 
+        "can_bargain": true, 
+        "can_search_by_tournament": false, 
+        "description": null, 
+        "game": "csgo", 
+        "goods_info": {
+          "icon_url": "https://g.fp.ps.netease.com/market/file/6171fd486912b7a30b7aa9a7mCkqTdAh03", 
+          "info": {
+            "tags": {
+              "quality": {
+                "category": "quality", 
+                "id": 516, 
+                "internal_name": "normal", 
+                "localized_name": "Normal"
+              }, 
+              "rarity": {
+                "category": "rarity", 
+                "id": 594, 
+                "internal_name": "common", 
+                "localized_name": "Base Grade"
+              }, 
+              "type": {
+                "category": "type", 
+                "id": 572, 
+                "internal_name": "csgo_type_weaponcase", 
+                "localized_name": "Weapon Cases"
+              }
+            }
+          }, 
+          "item_id": null, 
+          "original_icon_url": "https://g.fp.ps.netease.com/market/file/6171fd4599e8d691c0f32cb75ZTD1M5c03", 
+          "steam_price": "2.27", 
+          "steam_price_cny": "16"
+        }, 
+        "has_buff_price_history": true, 
+        "id": 876055, 
+        "market_hash_name": "Stockholm 2021 Contenders Patch Pack", 
+        "market_min_price": "0", 
+        "name": "Stockholm 2021 Contenders Patch Pack", 
+        "quick_price": "11.72", 
+        "sell_min_price": "11.82", 
+        "sell_num": 108, 
+        "sell_reference_price": "11.82", 
+        "short_name": "Stockholm 2021 Contenders Patch Pack", 
+        "steam_market_url": "https://steamcommunity.com/market/listings/730/Stockholm%202021%20Contenders%20Patch%20Pack", 
+        "transacted_num": 0
+      }
+    ], 
+    "page_num": 1, 
+    "page_size": 80, 
+    "total_count": 5, 
+    "total_page": 1
+  }, 
+  "msg": null
+}
